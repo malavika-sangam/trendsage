@@ -1,0 +1,24 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+.env
+venv/
+ENV/
+env/
+build/
+dist/
+
+# === Node ===
+node_modules/
+.env
+.next/
+.vite/
+dist/
+.DS_Store
+
+# === OS/System ===
+*.log
+*.swp
+*.swo
